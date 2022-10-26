@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase : {
+    apiKey: "AIzaSyDTy98BadTT0fpSuaYMBIbJlBMb_vOgcAI",
+  authDomain: "neural-journey-279909.firebaseapp.com",
+  projectId: "neural-journey-279909",
+  storageBucket: "neural-journey-279909.appspot.com",
+  messagingSenderId: "126136180249",
+  appId: "1:126136180249:web:24900cf2018975e02a9488",
+  measurementId: "G-RDR2XQZKL2"
+  }
 };
 
 /*
